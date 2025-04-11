@@ -2,7 +2,7 @@
 
 All notable changes to the `flutter_yt_dlp` plugin will be documented in this file.
 
-## [0.2.5] - 2025-03-19
+## [0.2.0] - 2025-03-19
 
 ### Added
 

@@ -22,7 +22,7 @@ Add the plugin to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_yt_dlp: ^0.2.5
+  flutter_yt_dlp: ^0.2.0
 ```
 
 Run the following command to fetch the package:
@@ -113,9 +113,9 @@ final thumbnailUrl = await client.getThumbnailUrl('<https://youtu.be/nl8o9PsJPAQ
 print('Thumbnail URL: $thumbnailUrl');
 ```
 
-## Migrating from 0.1.4 to 0.2.5
+## Migrating from 0.1.4 to 0.2.0
 
-Version 0.2.5 introduces breaking changes to the API:
+Version 0.2.0 introduces breaking changes to the API:
 
 - **Old Methods Removed**: Methods like `getAllRawVideoWithSoundFormats` are replaced by `getVideoInfo`, which returns all metadata and categorized formats in one call.
 - **Format Access**: Use `info['rawVideoWithSoundFormats']`, `info['mergeFormats']`, or `info['rawAudioOnlyFormats']` to access formats instead of separate method calls.
