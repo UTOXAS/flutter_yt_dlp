@@ -64,7 +64,7 @@ chaquopy {
     defaultConfig {
         version "3.9"
         pip {
-            install "yt-dlp==2025.2.19"
+            install "yt-dlp==2025.3.31"
         }
     }
 }
