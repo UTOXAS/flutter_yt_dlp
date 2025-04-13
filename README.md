@@ -22,7 +22,7 @@ Add the plugin to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_yt_dlp: ^0.2.0
+  flutter_yt_dlp: ^0.2.1
 ```
 
 Run the following command to fetch the package:

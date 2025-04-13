@@ -2,6 +2,16 @@
 
 All notable changes to the `flutter_yt_dlp` plugin will be documented in this file.
 
+## [0.2.1] - 2025-04-13
+
+### Changed
+
+- Updated `yt-dlp` dependency in `android/build.gradle` from `2025.2.19` to `2025.3.31` for improved performance and compatibility.
+
+### Notes
+
+- No API or functionality changes; this is a maintenance release to leverage the latest `yt-dlp` improvements.
+
 ## [0.2.0] - 2025-03-19
 
 ### Added
