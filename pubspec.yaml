@@ -25,3 +25,5 @@ flutter:
       android:
         package: com.example.flutter_yt_dlp
         pluginClass: FlutterYtDlpPlugin
+
+publish_to: none
