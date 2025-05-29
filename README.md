@@ -1,5 +1,10 @@
 # Flutter Yt Dlp
 
+**Discontinued Notice (May 29, 2025)**  
+This plugin is no longer maintained and has been discontinued. The package will be unpublished from pub.dev after the mandatory waiting period. We recommend exploring alternative solutions for media downloading, such as direct integration with `yt-dlp` via platform channels or other Flutter plugins for video processing. For questions, refer to the archived GitHub repository at [https://github.com/utoxas/flutter_yt_dlp](https://github.com/utoxas/flutter_yt_dlp).
+
+---
+
 A Flutter plugin for downloading and processing media using `yt-dlp` and `FFmpeg`. This plugin enables developers to fetch video metadata, select from various format types (combined video with sound, merged video and audio, or audio-only), and download media with progress tracking and format conversion options.
 
 ## Features

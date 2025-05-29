@@ -1,7 +1,8 @@
 name: flutter_yt_dlp
 description: "A Flutter plugin for downloading and processing media using yt-dlp and FFmpeg."
-version: 0.2.1
+version: 0.2.2
 homepage: https://github.com/utoxas/flutter_yt_dlp
+discontinued: This package is no longer maintained and has been discontinued as of May 29, 2025. Please consider alternative solutions for media downloading.
 
 environment:
   sdk: '>=3.5.3 <4.0.0'

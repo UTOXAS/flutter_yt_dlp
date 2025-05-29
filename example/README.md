@@ -1,5 +1,10 @@
 # flutter_yt_dlp_example
 
+**Discontinued Notice (May 29, 2025)**  
+This example app for the `flutter_yt_dlp` plugin is no longer maintained, as the main plugin has been discontinued. The plugin will be unpublished from pub.dev, and the GitHub repository will be archived. Please consider alternative solutions for media downloading.
+
+---
+
 Demonstrates how to use the flutter_yt_dlp plugin.
 
 ## Getting Started

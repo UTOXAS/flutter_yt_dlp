@@ -2,6 +2,18 @@
 
 All notable changes to the `flutter_yt_dlp` plugin will be documented in this file.
 
+## [0.2.2] - 2025-05-29
+
+### Added
+
+- Marked the package as discontinued in `pubspec.yaml` with a notice.
+- Updated `README.md` with a prominent discontinuation notice, informing users that the plugin will be unpublished from pub.dev and the GitHub repository will be archived.
+- Set `publish_to: none` in `pubspec.yaml` after publishing to prevent further publishes.
+
+### Notes
+
+- This is the final release of the plugin. No further updates or maintenance will be provided. Refer to the [README.md](README.md) for alternative suggestions and details.
+
 ## [0.2.1] - 2025-04-13
 
 ### Changed
